@@ -21,7 +21,7 @@ Tıklandığında açılan bir zarf animasyonu ile özür mesajı gösteren ve �
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/kullaniciAdiniz/ozurdilerim.git
+git clone https://github.com/akifemrebagis1/ozurdilerim-site.git
 ```
 
 2. Proje klasörüne gidin:
