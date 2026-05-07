@@ -1,59 +1,55 @@
-# Özür Dilerim - İnteraktif Zarf Animasyonu
+# 💌 Özür Dilerim — Interactive Envelope Animation
 
-Tıklandığında açılan bir zarf animasyonu ile özür mesajı gösteren ve çiçek animasyonları içeren interaktif bir web sayfası.
+> A beautifully crafted interactive web page featuring a 3D envelope animation that reveals an apology message with blooming flower effects.
 
-## Özellikler
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 3D zarf animasyonu
-- Tıklanabilir ve klavye ile erişilebilir etkileşim
-- Çiçek fışkırma efektleri
-- Tamamen responsive tasarım
-- Tekrar oynatma özelliği
+---
 
-## Teknolojiler
+## ✨ Features
 
-- HTML5
-- CSS3 (3D Transformlar, Animasyonlar)
-- Vanilla JavaScript
-- Google Fonts (Playfair Display)
+- 💫 **3D envelope animation** — realistic open/close with CSS 3D transforms
+- 🌸 **Flower burst effects** — blooming particles on reveal
+- 📱 **Fully responsive** — works on mobile, tablet, and desktop
+- ♿ **Accessible** — keyboard navigation (Enter/Space to open)
+- 🔄 **Replay button** — watch the animation again
+- 🎨 **Customizable** — easily change message, colors, and animations
 
-## Kurulum
+---
 
-1. Projeyi klonlayın:
+## 🚀 Demo
+
+1. Clone the repo:
 ```bash
 git clone https://github.com/akifemrebagis1/ozurdilerim-site.git
+cd ozurdilerim-site
 ```
 
-2. Proje klasörüne gidin:
-```bash
-cd ozurdilerim
-```
+2. Open `index.html` in your browser — that's it!
 
-3. İndex.html dosyasını bir tarayıcıda açın veya bir local sunucu kullanın.
+---
 
-## Kullanım
+## 🎨 Customization
 
-- Zarfı açmak için tıklayın veya Enter/Space tuşlarını kullanın
-- Animasyonu tekrar izlemek için "Tekrar Oynat" butonunu kullanın
-- Tüm modern tarayıcılarda çalışır
-- Mobil cihazlarda tam uyumlu
+| File | What to Change |
+|------|---------------|
+| `index.html` | Message content and structure |
+| `style.css` | Colors, sizes, animation timing |
+| `script.js` | Animation behavior and interactions |
 
-## Özelleştirme
+---
 
-Aşağıdaki dosyaları düzenleyerek projeyi özelleştirebilirsiniz:
+## 🛠️ Built With
 
-- `index.html`: Mesaj içeriği ve yapı
-- `style.css`: Renkler, boyutlar ve animasyonlar
-- `script.js`: Animasyon davranışları ve etkileşim
+- **HTML5** — semantic structure
+- **CSS3** — 3D transforms, keyframe animations
+- **Vanilla JavaScript** — interaction logic
+- **Google Fonts** — Playfair Display typography
 
-## Tarayıcı Desteği
+---
 
-- Chrome (son 2 versiyon)
-- Firefox (son 2 versiyon)
-- Safari (son 2 versiyon)
-- Edge (son 2 versiyon)
-- Mobil tarayıcılar
+## 📄 License
 
-## Lisans
-
-MIT License - Dilediğiniz gibi kullanabilir ve değiştirebilirsiniz.
+MIT License — feel free to use and modify.
